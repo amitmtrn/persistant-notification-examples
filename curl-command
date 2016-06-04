@@ -1,0 +1,2 @@
+`curl -H "TTL: 60" -H "Authorization:key=${APIKEY}" -d "" -X POST ${ENDPIONT}`
+`curl -H "TTL: 60" -d "" -X POST ${ENDPIONT}`

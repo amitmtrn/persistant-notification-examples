@@ -1,0 +1,8 @@
+{
+  "name": "Push Simple",
+  "short_name": "push-simple",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "gcm_sender_id": "1021646444843",
+  "gcm_user_visible_only": true
+}
